@@ -156,7 +156,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0}
   m_AnchorMax: {x: 0.5, y: 0}
-  m_AnchoredPosition: {x: 25, y: 555}
+  m_AnchoredPosition: {x: -174, y: 911}
   m_SizeDelta: {x: 305.0749, y: 135.7509}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &41144694
@@ -181,9 +181,7 @@ MonoBehaviour:
       m_Calls: []
   m_text: 'Texto:
 
-    Vic Fieger.
-
-    Ego`s.'
+    Vic Fieger.'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 946f41f52dc54bc48b9f5bb124f72b8f, type: 2}
   m_sharedMaterial: {fileID: -3212093879402485282, guid: 946f41f52dc54bc48b9f5bb124f72b8f, type: 2}
@@ -582,7 +580,7 @@ MonoBehaviour:
   m_UiScaleMode: 1
   m_ReferencePixelsPerUnit: 100
   m_ScaleFactor: 1
-  m_ReferenceResolution: {x: 1280, y: 1024}
+  m_ReferenceResolution: {x: 1920, y: 1080}
   m_ScreenMatchMode: 0
   m_MatchWidthOrHeight: 0
   m_PhysicalUnit: 3
@@ -671,7 +669,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0.5}
   m_AnchorMax: {x: 0, y: 0.5}
-  m_AnchoredPosition: {x: 220, y: -100}
+  m_AnchoredPosition: {x: 258, y: 47}
   m_SizeDelta: {x: 305.0749, y: 135.7509}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &878242420
@@ -698,9 +696,7 @@ MonoBehaviour:
 
     Fried H.M.
 
-    Sega.
-
-    Ego`s.'
+    Sega.'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 946f41f52dc54bc48b9f5bb124f72b8f, type: 2}
   m_sharedMaterial: {fileID: -3212093879402485282, guid: 946f41f52dc54bc48b9f5bb124f72b8f, type: 2}
@@ -811,7 +807,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 120, y: -150}
+  m_AnchoredPosition: {x: -226, y: 8}
   m_SizeDelta: {x: 305.0749, y: 135.7509}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1048352728
@@ -836,8 +832,9 @@ MonoBehaviour:
       m_Calls: []
   m_text: 'Modelos:
 
+    Mixamo.
 
-    Ego''s.'
+    JuanKTigre.'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 946f41f52dc54bc48b9f5bb124f72b8f, type: 2}
   m_sharedMaterial: {fileID: -3212093879402485282, guid: 946f41f52dc54bc48b9f5bb124f72b8f, type: 2}
@@ -900,7 +897,7 @@ MonoBehaviour:
   m_VertexBufferAutoSizeReduction: 0
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: 0, y: 0, z: 0, w: 0}
+  m_margin: {x: 0, y: 0, z: -29.913406, w: 0}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   m_hasFontAssetChanged: 0
@@ -948,7 +945,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 1, y: 0.5}
   m_AnchorMax: {x: 1, y: 0.5}
-  m_AnchoredPosition: {x: -240, y: 200}
+  m_AnchoredPosition: {x: -660, y: 200}
   m_SizeDelta: {x: 305.0749, y: 135.7509}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1204779792
@@ -974,8 +971,6 @@ MonoBehaviour:
   m_text: 'Scripts:
 
     ChatGPT.
-
-    Ego''s.
 
 '
   m_isRightToLeft: 0
@@ -1088,7 +1083,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 1}
   m_AnchorMax: {x: 0.5, y: 1}
-  m_AnchoredPosition: {x: -400, y: -120}
+  m_AnchoredPosition: {x: -705, y: -169}
   m_SizeDelta: {x: 305.0749, y: 135.75092}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1423204417
@@ -1111,7 +1106,9 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Creador:
+  m_text: 'Creadores:
+
+    CrazyPunch.
 
     Ego''s.'
   m_isRightToLeft: 0
@@ -1176,7 +1173,7 @@ MonoBehaviour:
   m_VertexBufferAutoSizeReduction: 0
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: 0, y: 0, z: 0, w: 0}
+  m_margin: {x: 0, y: 0, z: -38.89534, w: 0}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   m_hasFontAssetChanged: 0
