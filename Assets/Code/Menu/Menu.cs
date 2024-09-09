@@ -19,6 +19,6 @@ public class Menu : MonoBehaviour
     public void CargarCreditos()
     {
         // Carga la escena llamada "ZZCreditos"
-        SceneManager.LoadScene("ZZCreditos");
+        SceneManager.LoadScene("Z_Creditos");
     }
 }
